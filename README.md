@@ -1,4 +1,4 @@
-# Octis.github.io
+# Octis-Gaming.github.io
 
 This Is Octis
 
